@@ -1,3 +1,3 @@
 # gitkills
-aa
+CC
 add a new line.
